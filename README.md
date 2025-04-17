@@ -1,2 +1,4 @@
 # customer-churn-using-ML
 Customer Churn using Machine learning and Statistical analysis
+In today’s world of telecommunication, it is very important for the companies to retain their customers.The objective of this report is to carry out a churn analysis which will provide insights about the customers’ behavior. Customer churn occurs when customers or subscribers stop doing business with a company or service. This dataset contains information about the customers, their tenure with the service provider, their calling pattern throughout the day along with information on the type of plan and the number of customer service calls made by them. There are several factors that determine whether that particular customer will leave or not. 
+We will use logistic regression, Random forest, XGBoost algoritm to predict customer churn.
